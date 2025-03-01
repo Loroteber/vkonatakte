@@ -18,7 +18,7 @@
 * Установите [Stylus](https://add0n.com/stylus.html)
 * Установите [Tampermonkey](https://www.tampermonkey.net/)
 * Установите [стиль](https://userstyles.world/style/21166/vkonatakte) _или создайте свою тему, вставив содержимое [отсюда](/scripts/style.css)_
-* Установите [скрипт](https://greasyfork.org/en/scripts/528449-vkonatakte) _или создайте свой скрипт, вставив содержимое [отсюда](/scripts/script)_
+* Установите [скрипт](https://greasyfork.org/en/scripts/528449-vkonatakte) _или создайте свой скрипт, вставив содержимое [отсюда](/scripts/script.js)_
 * Установите тему **В Контакте 2007** в настройках сайта
 * PROFIT!
 
@@ -29,6 +29,7 @@
  * Дописать скрипт
  * Дописать стиль
  * Обновить скриншоты
+ * Сделать полноценную тему - _желательно откопать тему "В Контакте 2007" с vepurovk.xyz, так как она там больше доработана._
 
  ## Помощь в разработке
  Вы можете помочь с разработкой, ~~сделав часть работы за меня~~ отправив свои идеи, решения и предложения по поводу проекта мне в [Telegram](https://t.me/loroteber) или [здесь](https://github.com/Loroteber/vkonatakte/issues).
