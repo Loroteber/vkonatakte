@@ -1,0 +1,51 @@
+.page_header {
+    background: url(https://i.imgur.com/bwAi4cQ.png)
+}
+.page_yellowheader {
+    background: url(https://i.imgur.com/oRajNvs.png);
+    border-right: solid 1px #f5c8ca;
+    border-left: solid 1px #f5c8ca;
+    border-bottom: solid 1px #f5c8ca;
+}
+.page_yellowheader span {
+    color: #7C4C4C;
+}
+.completeness-gauge-gold div {
+    background-color: #BC9191;
+}
+.completeness-gauge {
+    background-color: #f5c8ca;
+}
+.content_title_expanded {
+    background-image: url(https://ovk.to/themepack/vk2007/0.0.1.0/resource/4.gif) !important
+}
+.audioEntry .playerButton .playIcon {
+    background-image: url('https://vepurovk.xyz/themepack/vk2007/0.0.1.3/resource/7.gif');
+    cursor: pointer;
+    width: 16px;
+    height: 16px;
+    background-repeat: no-repeat;
+}
+.audioEmbed .track .slider {
+    background: #45688E;
+}
+.header_divider_stick {
+    background: none !important;
+}
+.page_header.search_expanded #search_box input[type="search"] {
+    margin-left: 50px;
+}
+.like_tooltip_head {
+    background: #36638E !important;
+}
+.home_button {
+    width: 200px;
+}
+.search_box_button {
+    border: solid 1px #45688e !important;
+    background-color: #45688e !important;
+}
+#used {
+    border: solid 0.125rem #45688e !important;
+    background: #45688e !important;
+}
