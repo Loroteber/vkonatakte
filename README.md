@@ -38,6 +38,5 @@
  
  <img align="center" src="https://anime-chan.me/uploads/posts/2013-09/thumbs/1378997176_d43u7tzkqdc.jpg" alt="ВКонатакте" title="ВКонатакте">
 
- [Блог](https://ovk.to/blogoteber)
-
-## Проект будет дорабатываться с появлением времени и желания. Спасибо, что заглянули! ヾ(≧▽≦*)o
+ ## Проект будет дорабатываться с появлением времени и желания. Спасибо, что заглянули! ヾ(≧▽≦*)o
+ [loroteam](https://t.me/loroteam) | [Блог](https://ovk.to/blogoteber)
