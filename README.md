@@ -6,16 +6,12 @@
 
 <img align="center" src="/trash/screenshot.png" alt="ВКонатакте" title="ВКонатакте">
 
-<img align="center" src="/trash/another screenshot.png" alt="ВКонатакте" title="ВКонатакте">
-
-<img align="center" src="/trash/just screenshot.png" alt="ВКонатакте" title="ВКонатакте">
-
 <img align="center" src="/trash/just another screenshot.png" alt="ВКонатакте" title="ВКонатакте">
 
 <img align="center" src="/trash/another another screenshot.png" alt="ВКонатакте" title="ВКонатакте">
 
 ## Установка
-* Установите [Stylus](https://add0n.com/stylus.html)
+* Установите [Stylus](https://add0n.com/stylus.html) _или любое альтернативное расширение, Stylish, например_ 
 * Установите [Tampermonkey](https://www.tampermonkey.net/)
 * Установите [стиль](https://userstyles.world/style/21166/vkonatakte) _или создайте свою тему, вставив содержимое [отсюда](/scripts/style.css)_
 * Установите [скрипт](https://greasyfork.org/en/scripts/528449-vkonatakte) _или создайте свой скрипт, вставив содержимое [отсюда](/scripts/script.js)_
